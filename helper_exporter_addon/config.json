@@ -11,5 +11,9 @@
   "privileged": [],
   "map": ["config:rw"],
   "options": {},
-  "schema": {}
+  "schema": {},
+  "build": {
+    "type": "docker",
+    "image": "helper_exporter_addon"
+  }
 }
