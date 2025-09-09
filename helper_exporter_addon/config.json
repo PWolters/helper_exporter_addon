@@ -1,5 +1,5 @@
 {
-  "name": "Helper Exporter",
+  "name": "helper_exporter_addon",
   "version": "1.0.0",
   "slug": "helper_exporter",
   "description": "Exportiert input_number, input_text, input_boolean, input_datetime aus .storage nach YAML",
