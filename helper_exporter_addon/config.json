@@ -1,0 +1,15 @@
+{
+  "name": "Helper Exporter",
+  "version": "1.0.0",
+  "slug": "helper_exporter",
+  "description": "Exportiert input_number, input_text, input_boolean, input_datetime aus .storage nach YAML",
+  "startup": "once",
+  "boot": "manual",
+  "init": false,
+  "panel_icon": "mdi:file-export",
+  "host_network": false,
+  "privileged": [],
+  "map": ["config:rw"],
+  "options": {},
+  "schema": {}
+}
